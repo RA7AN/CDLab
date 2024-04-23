@@ -1,5 +1,3 @@
-#Write a program in python to find the first function for the given grammar
-
 def find_first(grammar):
     first = {}
 
